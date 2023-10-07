@@ -47,7 +47,7 @@ class AppTextRow extends StatelessWidget {
     };
     final color = switch (_type) {
       AppTextType.title => AppColors.textDark,
-      AppTextType.body => AppColors.textDark,
+      AppTextType.body => AppColors.textMedium,
       AppTextType.caption => AppColors.textLight,
     };
     return Row(
