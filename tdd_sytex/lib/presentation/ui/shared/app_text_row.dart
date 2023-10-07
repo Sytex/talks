@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'package:tdd_sytex/ui/shared/app_colors.dart';
+import 'package:tdd_sytex/presentation/ui/shared/app_colors.dart';
 
 enum AppTextType {
   title,
