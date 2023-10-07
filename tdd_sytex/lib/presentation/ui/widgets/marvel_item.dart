@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'package:tdd_sytex/ui/shared/shared.dart';
+import 'package:tdd_sytex/presentation/ui/shared/shared.dart';
 
 class MarvelItem extends StatelessWidget {
   const MarvelItem({
